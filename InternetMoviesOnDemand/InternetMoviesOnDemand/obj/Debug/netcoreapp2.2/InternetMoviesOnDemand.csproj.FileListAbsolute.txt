@@ -1,0 +1,28 @@
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.deps.json
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.runtimeconfig.json
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.runtimeconfig.dev.json
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.dll
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.pdb
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.csprojResolveAssemblyReference.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.csproj.CoreCompileInputs.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.RazorAssemblyInfo.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.RazorAssemblyInfo.cs
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.AssemblyInfoInputs.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.AssemblyInfo.cs
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.RazorTargetAssemblyInfo.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.dll
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.pdb
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.deps.json
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.runtimeconfig.json
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.runtimeconfig.dev.json
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.dll
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\bin\Debug\netcoreapp2.2\InternetMoviesOnDemand.pdb
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.csprojResolveAssemblyReference.cache
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.csproj.CoreCompileInputs.cache
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.RazorAssemblyInfo.cache
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.RazorAssemblyInfo.cs
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.AssemblyInfoInputs.cache
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.AssemblyInfo.cs
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.RazorTargetAssemblyInfo.cache
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.dll
+F:\Study\InternetMoviesOnDemand\InternetMoviesOnDemand\obj\Debug\netcoreapp2.2\InternetMoviesOnDemand.pdb

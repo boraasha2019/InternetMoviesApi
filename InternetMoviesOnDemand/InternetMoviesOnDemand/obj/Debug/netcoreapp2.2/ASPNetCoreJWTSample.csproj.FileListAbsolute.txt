@@ -1,0 +1,14 @@
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\ASPNetCoreJWTSample.deps.json
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\ASPNetCoreJWTSample.runtimeconfig.json
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\ASPNetCoreJWTSample.runtimeconfig.dev.json
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\ASPNetCoreJWTSample.dll
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\bin\Debug\netcoreapp2.2\ASPNetCoreJWTSample.pdb
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.csprojResolveAssemblyReference.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.csproj.CoreCompileInputs.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.RazorAssemblyInfo.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.RazorAssemblyInfo.cs
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.AssemblyInfoInputs.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.AssemblyInfo.cs
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.RazorTargetAssemblyInfo.cache
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.dll
+C:\Users\ASHA BORA\Downloads\AspNetCoreJwtSample-master\AspNetCoreJwtSample-master\ASPNetCoreJWTSample\obj\Debug\netcoreapp2.2\ASPNetCoreJWTSample.pdb
