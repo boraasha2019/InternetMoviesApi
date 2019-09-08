@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternetMoviesOnDemand", "InternetMoviesOnDemand\InternetMoviesOnDemand.csproj", "{5A5B08D9-CA7B-4A58-9C24-FB4480D44AB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetMoviesOnDemand.Test", "InternetMoviesOnDemand.Test\InternetMoviesOnDemand.Test.csproj", "{8AF49A27-2646-4192-8D8B-84C053357D37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5A5B08D9-CA7B-4A58-9C24-FB4480D44AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A5B08D9-CA7B-4A58-9C24-FB4480D44AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A5B08D9-CA7B-4A58-9C24-FB4480D44AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF49A27-2646-4192-8D8B-84C053357D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF49A27-2646-4192-8D8B-84C053357D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF49A27-2646-4192-8D8B-84C053357D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF49A27-2646-4192-8D8B-84C053357D37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

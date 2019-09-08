@@ -15,6 +15,6 @@ namespace InternetMoviesOnDemand.Data
         };
 
 
-        public static IEnumerable<Category> _category = new List<Category>();
+        public static List<Category> _category = new List<Category>();
     }
 }
